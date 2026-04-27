@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: DVDPlayerOfDiscordFame
-  changes:
-  - message: the OL-71 Laser Rifle now has its own beam graphics.
-    type: Add
-  id: 2260
-  time: '2025-09-14T14:24:08.0000000+00:00'
-  url: https://github.com/impstation/imp-station-14/pull/3403
 - author: mousesweater, CrocodileCarousel
   changes:
   - message: moths are no longer shrink-wrapped. you may now wear your poncho in peace.
@@ -4143,3 +4136,10 @@
   id: 2759
   time: '2026-04-18T11:32:48.0000000+00:00'
   url: https://github.com/impstation/imp-station-14/pull/4308
+- author: BubbaBean
+  changes:
+  - message: Ouroboros now always spawns 1 bee as originally intended. Bees.
+    type: Fix
+  id: 2760
+  time: '2026-04-27T06:29:01.0000000+00:00'
+  url: https://github.com/impstation/imp-station-14/pull/3926
