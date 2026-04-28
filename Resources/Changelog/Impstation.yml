@@ -1,12 +1,4 @@
 ﻿Entries:
-- author: DinnerCalzone
-  changes:
-  - message: The service techfab can now be linked to material silos and will announce
-      on service comms when new recipes are available from unlocked research technologies.
-    type: Add
-  id: 2266
-  time: '2025-09-17T17:21:50.0000000+00:00'
-  url: https://github.com/impstation/imp-station-14/pull/3404
 - author: Mousetrinity
   changes:
   - message: for a measly sum, you may now import the banana deer from planet teo!
@@ -4143,3 +4135,10 @@
   id: 2765
   time: '2026-04-28T02:07:05.0000000+00:00'
   url: https://github.com/impstation/imp-station-14/pull/3930
+- author: Simul-ad-Astra
+  changes:
+  - message: All Conspirators must now make it out alive and free.
+    type: Tweak
+  id: 2766
+  time: '2026-04-28T02:35:16.0000000+00:00'
+  url: https://github.com/impstation/imp-station-14/pull/4332
