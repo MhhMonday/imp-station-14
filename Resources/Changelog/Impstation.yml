@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: widgetbeck
-  changes:
-  - message: Fixed Decapoids being too easy to gib on meatspikes.
-    type: Fix
-  id: 2262
-  time: '2025-09-15T00:45:21.0000000+00:00'
-  url: https://github.com/impstation/imp-station-14/pull/3455
 - author: DinnerCalzone
   changes:
   - message: The vault is now locked by a new Vault access, which all command jobs
@@ -4139,3 +4132,11 @@
   id: 2761
   time: '2026-04-27T06:48:42.0000000+00:00'
   url: https://github.com/impstation/imp-station-14/pull/4274
+- author: msTheowo
+  changes:
+  - message: Store listings can have parents and be abstact. This means nothing for
+      you, the player. Fan asked me to do this
+    type: Tweak
+  id: 2762
+  time: '2026-04-28T01:58:34.0000000+00:00'
+  url: https://github.com/impstation/imp-station-14/pull/4233
