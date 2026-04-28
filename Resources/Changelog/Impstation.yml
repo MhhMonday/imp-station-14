@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: sowelipililimute
-  changes:
-  - message: ChemMaster can now produce grey and smiley pills as advertised
-    type: Fix
-  id: 2276
-  time: '2025-09-19T08:19:48.0000000+00:00'
-  url: https://github.com/impstation/imp-station-14/pull/3486
 - author: HAPPYNEWYEAR1999
   changes:
   - message: Minor Pathway changes, see PR for details
@@ -4118,3 +4111,11 @@
   id: 2775
   time: '2026-04-28T08:33:53.0000000+00:00'
   url: https://github.com/impstation/imp-station-14/pull/4328
+- author: lobsterpaw
+  changes:
+  - message: Hamsters now have pouches that you can cut open with a knife and cauterize
+      shut with a welding tool
+    type: Add
+  id: 2776
+  time: '2026-04-28T10:03:19.0000000+00:00'
+  url: https://github.com/impstation/imp-station-14/pull/4314
