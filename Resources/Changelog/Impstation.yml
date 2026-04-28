@@ -1,12 +1,4 @@
 ﻿Entries:
-- author: Pinkbat5
-  changes:
-  - message: Fixed most (but not all!) imp-exclusive accents and disabilities not
-      being inherited by paradox clones.
-    type: Fix
-  id: 2265
-  time: '2025-09-17T17:23:36.0000000+00:00'
-  url: https://github.com/impstation/imp-station-14/pull/3354
 - author: DinnerCalzone
   changes:
   - message: The service techfab can now be linked to material silos and will announce
@@ -4144,3 +4136,10 @@
   id: 2764
   time: '2026-04-28T02:04:20.0000000+00:00'
   url: https://github.com/impstation/imp-station-14/pull/4246
+- author: sev7ves
+  changes:
+  - message: Pleebnars can now express their thoughts and opinions better!
+    type: Add
+  id: 2765
+  time: '2026-04-28T02:07:05.0000000+00:00'
+  url: https://github.com/impstation/imp-station-14/pull/3930
