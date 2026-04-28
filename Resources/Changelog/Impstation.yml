@@ -1,13 +1,6 @@
 ﻿Entries:
 - author: sowelipililimute
   changes:
-  - message: Zombies no longer cause PVS reloads
-    type: Fix
-  id: 2271
-  time: '2025-09-18T23:57:36.0000000+00:00'
-  url: https://github.com/impstation/imp-station-14/pull/3482
-- author: sowelipililimute
-  changes:
   - message: There is now a surgery UI that guides you through the steps to do a specific
       operation!
     type: Add
@@ -4118,3 +4111,14 @@
   id: 2770
   time: '2026-04-28T07:03:37.0000000+00:00'
   url: https://github.com/impstation/imp-station-14/pull/4318
+- author: Spung22
+  changes:
+  - message: Intercoms and timers are now buildable and deconstructable without needing
+      to take apart the whole wall they're sat on.
+    type: Fix
+  - message: Broken station maps can now be taken apart and fixed rather then having
+      to beat them to a pulp.
+    type: Tweak
+  id: 2771
+  time: '2026-04-28T07:09:44.0000000+00:00'
+  url: https://github.com/impstation/imp-station-14/pull/4298
