@@ -1,14 +1,6 @@
 ﻿Entries:
 - author: sowelipililimute
   changes:
-  - message: Medical and Damage as a whole has been reworked. Check your guidebooks!
-      Good luck!
-    type: Add
-  id: 2268
-  time: '2025-09-18T02:53:32.0000000+00:00'
-  url: https://github.com/impstation/imp-station-14/pull/3463
-- author: sowelipililimute
-  changes:
   - message: Peridaxon now exists, a chemical that can heal mild cases of heart damage
       without requiring surgical intervention!
     type: Add
@@ -4141,3 +4133,10 @@
   id: 2767
   time: '2026-04-28T02:38:22.0000000+00:00'
   url: https://github.com/impstation/imp-station-14/pull/4322
+- author: DisposableCrewmember42, jkwookee
+  changes:
+  - message: Singularity now nudges toward the station
+    type: Tweak
+  id: 2768
+  time: '2026-04-28T02:44:00.0000000+00:00'
+  url: https://github.com/impstation/imp-station-14/pull/4323
