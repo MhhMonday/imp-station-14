@@ -1,24 +1,4 @@
 ﻿Entries:
-- author: sowelipililimute
-  changes:
-  - message: You can now implant items in people's chest cavities! Try not to put
-      bombs in there, that's illegal.
-    type: Add
-  - message: You can now ghost from your body during hardcrits.
-    type: Add
-  - message: Medical cyborgs can do surgery now.
-    type: Add
-  - message: All surgery tools now have lathe recipes.
-    type: Add
-  - message: Epinephrine no longer is guaranteed to restart the heart.
-    type: Tweak
-  - message: Nicotine has less of an impact on your heartrate.
-    type: Tweak
-  - message: Medical cyborgs' IV bag slot works as advertised now.
-    type: Fix
-  id: 2279
-  time: '2025-09-20T02:28:47.0000000+00:00'
-  url: https://github.com/impstation/imp-station-14/pull/3489
 - author: SixValentine
   changes:
   - message: reHash social experiment (Testing only not in rotation)
@@ -4123,3 +4103,10 @@
   id: 2778
   time: '2026-04-28T15:47:29.0000000+00:00'
   url: https://github.com/impstation/imp-station-14/pull/4237
+- author: msTheowo
+  changes:
+  - message: Fixed the Adder being crazy broken.
+    type: Fix
+  id: 2779
+  time: '2026-04-28T17:59:48.0000000+00:00'
+  url: https://github.com/impstation/imp-station-14/pull/4334
