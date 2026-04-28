@@ -1,13 +1,6 @@
 ﻿Entries:
 - author: honeyed-lemons
   changes:
-  - message: Xeno Medical has been refreshed! Now contains 99% more surgery
-    type: Tweak
-  id: 2274
-  time: '2025-09-19T02:32:36.0000000+00:00'
-  url: https://github.com/impstation/imp-station-14/pull/3483
-- author: honeyed-lemons
-  changes:
   - message: Flesh heretics are now worse at sucking.
     type: Tweak
   id: 2275
@@ -4117,3 +4110,11 @@
   id: 2773
   time: '2026-04-28T08:22:22.0000000+00:00'
   url: https://github.com/impstation/imp-station-14/pull/4330
+- author: ZekDelPon
+  changes:
+  - message: The Traitor Experimental C.H.I.M.P. Handcannon has gotten a bit more...
+      experimental? Radioactive. It's radioactive.
+    type: Tweak
+  id: 2774
+  time: '2026-04-28T08:23:34.0000000+00:00'
+  url: https://github.com/impstation/imp-station-14/pull/4319
