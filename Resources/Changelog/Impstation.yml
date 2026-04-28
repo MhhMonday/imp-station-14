@@ -1,14 +1,4 @@
 ﻿Entries:
-- author: sowelipililimute
-  changes:
-  - message: There is now a surgery UI that guides you through the steps to do a specific
-      operation!
-    type: Add
-  - message: Surgery should be more reliable now.
-    type: Fix
-  id: 2272
-  time: '2025-09-19T00:35:46.0000000+00:00'
-  url: https://github.com/impstation/imp-station-14/pull/3481
 - author: honeyed-lemons
   changes:
   - message: Changelings and Heretics now retain their antag roles when cloned.
@@ -4122,3 +4112,11 @@
   id: 2771
   time: '2026-04-28T07:09:44.0000000+00:00'
   url: https://github.com/impstation/imp-station-14/pull/4298
+- author: msTheowo
+  changes:
+  - message: The Spider Clan has redoubled their efforts to interfere with Nanotrasen
+      stations.
+    type: Tweak
+  id: 2772
+  time: '2026-04-28T07:11:03.0000000+00:00'
+  url: https://github.com/impstation/imp-station-14/pull/4331
