@@ -1,20 +1,6 @@
 ﻿Entries:
 - author: sowelipililimute
   changes:
-  - message: Revenant can now siphon soul energy from critical people, and deals cold
-      damage from doingso
-    type: Fix
-  - message: Unidentified corpses no longer spawn alive
-    type: Fix
-  - message: Bottles return to their original 1x1 size
-    type: Tweak
-  - message: People can now become fully unconscious from large amounts of pain
-    type: Tweak
-  id: 2270
-  time: '2025-09-18T21:05:54.0000000+00:00'
-  url: https://github.com/impstation/imp-station-14/pull/3480
-- author: sowelipililimute
-  changes:
   - message: Zombies no longer cause PVS reloads
     type: Fix
   id: 2271
@@ -4125,3 +4111,10 @@
   id: 2769
   time: '2026-04-28T04:39:50.0000000+00:00'
   url: https://github.com/impstation/imp-station-14/pull/4325
+- author: yesteryuri
+  changes:
+  - message: Dinosaurs that have devoured a person will no longer delete them on death
+    type: Fix
+  id: 2770
+  time: '2026-04-28T07:03:37.0000000+00:00'
+  url: https://github.com/impstation/imp-station-14/pull/4318
